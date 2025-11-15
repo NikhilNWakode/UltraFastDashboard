@@ -1,4 +1,4 @@
-# 🚀 Ultra-Fast React Dashboard (Batch API + 12 Widgets)
+##🚀 Ultra-Fast React Dashboard (Batch API + 12 Widgets)
 
 A lightning-fast, production-grade analytics dashboard built with a **single batch API**, **React 19**, **TanStack Query**, **Recharts**, **TailwindCSS**, and **virtualized tables**.
 
@@ -12,8 +12,8 @@ This project demonstrates real-world engineering skills that companies look for:
 ✔ Modular services  
 ✔ Modern UI/UX  
 
-Live Demo → **https://your-vercel-url.vercel.app**  
-API → **https://your-render-url.onrender.com/batch**
+Live Demo → **https://ultra-fast-dashboard-dv66g4h01-nikhil-wakodes-projects.vercel.app/**  
+API → **https://ultrafastdashboard.onrender.com**
 
 ---
 
