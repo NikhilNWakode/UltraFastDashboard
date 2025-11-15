@@ -53,29 +53,7 @@ API → **https://ultrafastdashboard.onrender.com**
 
 ## 📁 Project Structure
 
-DashBoard/
-│
-├── backend/
-│   ├── src/
-│   │   ├── server.js
-│   │   ├── config/app.js
-│   │   ├── controllers/
-│   │   ├── services/
-│   │   ├── routes/
-│   │   └── utils/
-│   ├── db.json
-│   ├── package.json
-│   └── .env
-│
-└── frontend/
-    ├── src/
-    │   ├── api/
-    │   ├── hooks/
-    │   ├── components/
-    │   └── pages/
-    ├── index.html
-    ├── package.json
-    └── .env
+<img width="332" height="593" alt="image" src="https://github.com/user-attachments/assets/280494d1-109b-44ad-b3e7-521b31ad8ba3" />
 
 
 
