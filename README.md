@@ -1,4 +1,4 @@
-##🚀 Ultra-Fast React Dashboard (Batch API + 12 Widgets)
+# 🚀 Ultra-Fast React Dashboard (Batch API + 12 Widgets)
 
 A lightning-fast, production-grade analytics dashboard built with a **single batch API**, **React 19**, **TanStack Query**, **Recharts**, **TailwindCSS**, and **virtualized tables**.
 
@@ -56,26 +56,26 @@ API → **https://ultrafastdashboard.onrender.com**
 DashBoard/
 │
 ├── backend/
-│ ├── src/
-│ │ ├── server.js
-│ │ ├── config/app.js
-│ │ ├── controllers/
-│ │ ├── services/
-│ │ ├── routes/
-│ │ └── utils/
-│ ├── db.json
-│ ├── package.json
-│ └── .env
+│   ├── src/
+│   │   ├── server.js
+│   │   ├── config/app.js
+│   │   ├── controllers/
+│   │   ├── services/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── db.json
+│   ├── package.json
+│   └── .env
 │
 └── frontend/
-├── src/
-│ ├── api/
-│ ├── hooks/
-│ ├── components/
-│ └── pages/
-├── index.html
-├── package.json
-└── .env
+    ├── src/
+    │   ├── api/
+    │   ├── hooks/
+    │   ├── components/
+    │   └── pages/
+    ├── index.html
+    ├── package.json
+    └── .env
 
 
 
