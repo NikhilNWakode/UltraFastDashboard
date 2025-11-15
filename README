@@ -2,7 +2,7 @@
 
 A lightning-fast, production-grade analytics dashboard built with a **single batch API**, **React 19**, **TanStack Query**, **Recharts**, **TailwindCSS**, and **virtualized tables**.
 
-This project demonstrates real-world engineering skills that companies look for:
+This project demonstrates real-world engineering skills that companies look for: 
 
 ✔ Batching  
 ✔ Caching  
