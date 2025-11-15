@@ -1,8 +1,11 @@
 import axios from "axios";
 
-export async function fetchBatch(widgets = null) {
-  const res = await axios.post("http://localhost:3000/batch", {
-    widgets: widgets || null
+const API_URL = import.meta.env.VITE_API_URL;
+
+export async function fetchBatch() {
+  const res = await axios.post(`${API_URL}/batch`, {
+    widgets: null, // fetch all widgets
   });
+
   return res.data.data;
 }
